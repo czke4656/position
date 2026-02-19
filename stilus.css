@@ -67,17 +67,37 @@ nav {
     right: 0;
 }
 
- #kosar {
+#kosar {
     position: relative;
     width: 50px;
     font-size: 35px;
     top: 0px;
     right: 0px;
- }
+}
 
- #szam {
+#szam {
     position: absolute;
     top: -10px;
     right: -10px;
     color: rgb(0, 51, 145);
- }
+}
+
+#kartya {
+    position: relative;
+    text-align: center;
+    width: 50px;
+    top: 0px;
+    right: 0px;
+}
+
+#akcio {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    color: goldenrod;
+    
+}
+
+img {
+    max-width: 981px;
+}
